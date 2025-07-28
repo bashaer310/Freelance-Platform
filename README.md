@@ -21,7 +21,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
   - Update Offer status (pending, accepted, rejected)
 
 - **Contract Management**:
-  - Retrieve accepted offers as active contracts
+  - Clients can retrieve accepted offers as active contracts
   - Update contract status (in progress, completed, canceled)
 
 - **Category Management**:
