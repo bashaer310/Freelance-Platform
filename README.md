@@ -91,7 +91,7 @@ Freelance-Platform/
 │   │   │       ├── repository/       # Spring Data JPA repositories
 │   │   │       ├── service/          # Business logic and services
 │   │   │       └── FreelanceApplication.java  # Application entry point
-│   |   ├── resources/
+│   │   ├── resources/
 │   │   ├── application.properties    # App configuration and DB connection
 ├── pom.xml                           # Maven configuration file
 ```
