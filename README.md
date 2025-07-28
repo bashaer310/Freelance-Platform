@@ -30,11 +30,14 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 ## Technologies Used
 
-- Java 21
-- Spring Boot
-- Spring Security (JWT-based authentication)
-- MySQL
-- JPA (Hibernate)
-- ModelMapper (for DTO conversion)
-- Maven
-- Postman (for API testing)
+- Java 21 – Core programming language
+- Spring Boot – Framework for building RESTful APIs
+- Spring Data JPA – ORM layer for interacting with the database
+- Spring Security – Authentication and authorization
+- Bean Validation (JSR 380) – Input validation using annotations
+- MySQL – Relational database used for persistence
+- JPA (Hibernate) – ORM provider for database access
+- Lombok – Reduces boilerplate code for models and DTOs
+- JUnit 5 (Jupiter) – Unit testing framework
+- Spring Boot Test – Testing support for Spring Boot applications
+- Maven – Build and dependency management
