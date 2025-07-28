@@ -71,7 +71,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 ```
 5. Test the API
 
-  Use tools like Postman to test the endpoints.
+    Use tools like Postman to test the endpoints.
 
 
 ## Project structure
