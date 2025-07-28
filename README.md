@@ -16,7 +16,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
   - Edit or delete a project (by project owner)
 
 - **Offer (Proposal) Management**:
-  - Freelancers can submit offers (proposals) for posted projects (custom price, delivery timeline, and message)
+  - Experts can submit offers (proposals) for posted projects (custom price, delivery timeline, and message)
   - Clients can retrieve offers with pagination and filtering
   - Update Offer status (pending, accepted, rejected)
 
