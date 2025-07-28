@@ -55,7 +55,8 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 3. Configure Database:
 - Ensure MySQL is running.
-- Open `src/main/resources/application.properties` and update the DB config::
+- Create tables for all the models in your DB.
+- Open `src/main/resources/application.properties` and update the DB config:
 
 ```bach
   spring.datasource.url=jdbc:mysql://localhost:3306/yourDB
