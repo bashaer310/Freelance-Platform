@@ -53,7 +53,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
   Freelance-Platform
   ```
 
-3. Configure Database
+3. Configure Database:
 - Ensure MySQL is running.
 - Open `src/main/resources/application.properties` and update the DB config::
 
@@ -63,7 +63,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
   spring.datasource.password=yourPassword
 ```
 
-- Run the application
+- Run the application:
 
   Use your IDE or run via command line:
 ```bash
