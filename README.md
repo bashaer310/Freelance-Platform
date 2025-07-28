@@ -43,6 +43,35 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 ## Getting Started
 
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/bashaer310/Freelance-Platform
+  ```
+
+2. Navigate to the project folder:
+  ```bash
+  Freelance-Platform
+  ```
+
+3. Configure Database
+- Ensure MySQL is running.
+- Open `src/main/resources/application.properties` and update the DB config::
+
+```bach
+  spring.datasource.url=jdbc:mysql://localhost:3306/yourDB
+  spring.datasource.username=yourUsername
+  spring.datasource.password=yourPassword
+```
+
+- Run the application
+Use your IDE or run via command line:
+```bash
+./mvnw spring-boot:run
+```
+5. Test the API
+Use tools like Postman to test the endpoints.
+
+
 ## Project structure
 
 ## API Endpoints
