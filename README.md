@@ -5,7 +5,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 ## Features
 
 - **User Management**:
-  - Register new user (Client/Experts/Admin)
+  - Register new user (Client/Expert/Admin)
   - User authentication and role-based authorization
   - Update user profile
 
@@ -41,3 +41,17 @@ This is a backend solution for a freelance marketplace platform, built with Java
 - Maven – Dependency and build management
 - Postman – API testing
 
+## Getting Started
+
+## Project structure
+
+## API Endpoints
+All the API endpoints are documented and can be accessed at:
+
+## Deployment
+
+The application is deployed and can be accessed at: 
+
+## License
+
+This project is licensed under the MIT License.
