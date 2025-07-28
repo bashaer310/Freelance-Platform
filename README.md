@@ -11,12 +11,12 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 - **Project Management**:
   - Clients can create new projects (title, description, budget, and deadline)
-  - Experts can retrieve available projects and project details with handling pagination and filtering
+  - Experts can retrieve available projects and project details with pagination and filtering
   - Edit or delete a project (by project owner)
 
 - **Offer (Proposal) Management**:
   - Freelancers can submit offers (proposals) for posted projects (custom price, delivery timeline, and message)
-  - Clients can retrieve offers with handling pagination and filtering
+  - Clients can retrieve offers with pagination and filtering
   - Offer status tracking (pending, accepted, rejected)
 
 - **Contract Management**:
@@ -25,7 +25,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 - **Category Management**:
   - Admin can create and manage categories (e.g., Web Development, Data Science, UI/UX)
-  - Retrieve categories with handling pagination and filtering
+  - Retrieve categories with pagination and filtering
   - Update or delete existing categories
 
 ## Technologies Used
