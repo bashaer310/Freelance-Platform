@@ -75,6 +75,25 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 
 ## Project structure
+```bash
+Freelance-Platform/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/example/freelance/
+│   │   │       ├── controller/       # REST controllers (API endpoints)
+│   │   │       ├── config/           # Security and application configurations
+│   │   │       ├── dto/              # Data Transfer Objects
+│   │   │       ├── model/            # JPA entities (models)
+│   │   │       ├── advice/           # Custom exceptions
+│   │   │       ├── api/              # Custom hanling exceptions
+│   │   │       ├── repository/       # Spring Data JPA repositories
+│   │   │       ├── service/          # Business logic and services
+│   │   │       └── FreelanceApplication.java  # Application entry point
+│   |   ├── resources/
+│   │   ├── application.properties    # App configuration and DB connection
+├── pom.xml                           # Maven configuration file
+```
 
 ## API Endpoints
 All the API endpoints are documented and can be accessed at:
