@@ -29,17 +29,23 @@ This is a backend solution for a freelance marketplace platform, built with Java
   - Retrieve categories with pagination and filtering
 
 ## Technologies Used
-- Java 21 – Programming language
-- Spring Boot – RESTful API framework
-- Spring Data JPA (Hibernate) – ORM for database access
-- Spring Security (JWT) – Authentication and authorization
-- Bean Validation – Input validation
-- MySQL – Relational database
-- Lombok – Reduces boilerplate code
-- JUnit 5 – Testing framework
-- Spring Boot Test – Test support for Spring apps
-- Maven – Dependency and build management
-- Postman – API testing
+- Languages
+    - Java 21 – Programming language
+- Frameworks
+    - Spring Boot – RESTful API framework
+- Datebase
+    - MySQL – Relational database
+- Dependencies
+    - Spring Data JPA (Hibernate) – ORM for database access
+    - Spring Security (JWT) – Authentication and authorization
+    - Bean Validation – Input validation
+    - Lombok – Reduces boilerplate code
+    - JUnit 5 – Testing framework
+    - Spring Boot Test – Test support for Spring apps
+- Dependency manger
+    - Maven – Dependency and build management
+- Tools
+    - Postman – API testing
 
 ## Getting Started
 
