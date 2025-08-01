@@ -88,7 +88,7 @@ Freelance-Platform/
 │   ├── main/
 │   │   ├── java/
 │   │   │   └── com/example/freelance/
-│   │   │       ├── controller/       # REST controllers (API endpoints)
+│   │   │       ├── controller/       # API controllers for handling requests and responses
 │   │   │       ├── config/           # Security and application configurations
 │   │   │       ├── dto/              # Data Transfer Objects
 │   │   │       ├── model/            # JPA entities (models)
