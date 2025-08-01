@@ -5,7 +5,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 ## Features
 
 - **User Management**:
-  - Register new user (Client/Expert/Admin)
+  - Register new user (Client/Expert)
   - User authentication and role-based authorization
   - Update user profile
 
@@ -86,8 +86,7 @@ Freelance-Platform/
 │   │   │       ├── config/           # Security and application configurations
 │   │   │       ├── dto/              # Data Transfer Objects
 │   │   │       ├── model/            # JPA entities (models)
-│   │   │       ├── advice/           # Custom exceptions
-│   │   │       ├── api/              # Custom hanling exceptions
+│   │   │       ├── advice/           # Custom exceptions and hanling
 │   │   │       ├── repository/       # Spring Data JPA repositories
 │   │   │       ├── service/          # Business logic and services
 │   │   │       └── FreelanceApplication.java  # Application entry point
