@@ -1,32 +1,27 @@
 # Freelance Platform
 
-This is a backend solution for a freelance marketplace platform, built with Java, Spring Boot, and MySQL. The platform allows clients to post projects and receive offers from qualified experts across various tech fields. It includes core features like **user authentication**, **project management**, **offer and contract management**, and **category management**.
+This is a backend solution for a freelance marketplace platform, built with Java, Spring Boot, and MySQL. The platform allows clients to post projects and receive offers from qualified experts across various tech fields. It includes core features like **user authentication**, **project management**, **offer management**, and **category management**.
 
 ## Features
 
 - **User Management**:
-  - Register new user (Client/Expert)
-  - User authentication and role-based authorization
-  - Update user profile
+  - **User Registration** - users can create account (Client/Expert)
+  - **Authentication & Authorization** - users can login with role-based access
+  - **Profile Management** - users can update their prodile
 
 - **Project Management**:
-  - Clients can create, edit or delete projects (title, description, budget, and deadline)
-  - Experts can retrieve available projects with pagination and filtering
-  - View project details
-
-- **Offer (Proposal) Management**:
-  - Experts can submit offers for projects (custom price, delivery timeline, and message)
-  - Clients can retrieve offers with pagination and filtering
-  - Clients can update Offer status (pending, accepted, rejected)
-
-- **Contract Management**:
-  - Accepted offers are converted into active contracts
-  - Clients and experts can view contract details
-  - Clients can update contract status (in progress, completed, canceled)
-
-- **Category Management**:
-  - Admin can create, update, and delete categories (e.g., Web Development, Data Science, UI/UX)
-  - Retrieve categories with pagination and filtering
+  - **Project Management** - clients can create, edit or delete projects (title, description, budget, and deadline)
+  - **Project Browsing** - experts can retrieve available projects with pagination and filtering
+  - **Project Details View** - users can view project details
+    
+- **Category Management (types of project)**:
+  - **Category Management** - admin can create, update, and delete categories (e.g., Web Development, Data Science, UI/UX)
+  - **Category Retrieval** - retrieve categories with pagination and filtering
+  
+- **Offer Management**:
+  - **Offer Creation** - experts can submit offers for projects (custom price, delivery timeline, and message)
+  - **Offer Retrieval** - clients can retrieve offers with pagination and filtering
+  - **Offer Status Management** - clients can update Offer status (pending, accepted, rejected)
 
 ## Technologies Used
 - Languages
