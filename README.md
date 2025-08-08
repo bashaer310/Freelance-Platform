@@ -7,7 +7,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 - **User Management**:
   - **User Registration** - users can create account (Client/Expert)
   - **Authentication & Authorization** - users can login with role-based access
-  - **Profile Management** - users can update their prodile
+  - **Profile Management** - users can update their profile
 
 - **Project Management**:
   - **Project Management** - clients can create, edit or delete projects (title, description, budget, and deadline)
