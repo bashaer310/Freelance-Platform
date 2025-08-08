@@ -16,7 +16,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
     
 - **Category Management (types of project)**:
   - **Category Management** - admin can create, update, and delete categories (e.g., Web Development, Data Science, UI/UX)
-  - **Category Retrieval** - retrieve categories with pagination and filtering
+  - **Category Retrieval** - users can retrieve categories with pagination and filtering
   
 - **Offer Management**:
   - **Offer Creation** - experts can submit offers for projects (custom price, delivery timeline, and message)
