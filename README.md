@@ -5,7 +5,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 ## Features
 
 - **User Management**:
-  - **User Registration** - users can create an account (Client/Expert)
+  - **User Registration** - users can create an account (client/expert)
   - **Authentication & Authorization** - users can login with role-based access
   - **Profile Management** - users can update their profile
 
@@ -26,10 +26,13 @@ This is a backend solution for a freelance marketplace platform, built with Java
 ## Technologies Used
 - Languages
     - Java 21 – Programming language
+      
 - Frameworks
     - Spring Boot – RESTful API framework
+      
 - Datebase
     - MySQL – Relational database
+      
 - Dependencies
     - Spring Data JPA (Hibernate) – ORM for database access
     - Spring Security (JWT) – Authentication and authorization
@@ -37,8 +40,10 @@ This is a backend solution for a freelance marketplace platform, built with Java
     - Lombok – Reduces boilerplate code
     - JUnit 5 – Testing framework
     - Spring Boot Test – Test support for Spring apps
+      
 - Dependency manger
     - Maven – Dependency and build management
+      
 - Tools
     - Postman – API testing
 
