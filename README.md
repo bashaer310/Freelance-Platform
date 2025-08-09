@@ -1,6 +1,6 @@
 # Freelance Platform
 
-This is a backend solution for a freelance marketplace platform, built with Java, Spring Boot, and MySQL. The platform allows clients to post projects and receive offers from qualified experts across various tech fields. It includes core features like **user authentication**, **project management**, **offer management**, and **category management**.
+This is a backend solution for a freelance marketplace platform, built with Java, Spring Boot, and MySQL. The platform allows clients to post projects and receive offers from qualified experts across various tech fields. It includes core features like **user authentication**, **project management**, **offer management**, and **offer management**.
 
 ## Features
 
@@ -10,17 +10,17 @@ This is a backend solution for a freelance marketplace platform, built with Java
   - **Profile Management** - users can update their profile
 
 - **Project Management**:
-  - **Project Management** - clients can create, edit or delete projects (title, description, budget, and deadline)
+  - **Project Management** - clients can create, update, and delete projects (title, description, budget, and deadline)
   - **Project Browsing** - experts can retrieve available projects with pagination and filtering
-  - **Project Details View** - users can view project details
+  - **Project Details** - experts can view project details
     
 - **Category Management (types of project)**:
   - **Category Management** - admin can create, update, and delete categories (e.g., Web Development, Data Science, UI/UX)
-  - **Category Retrieval** - users can retrieve categories with pagination and filtering
+  - **Category Listing** - users can retrieve categories with pagination and filtering
   
 - **Offer Management**:
   - **Offer Creation** - experts can submit offers for projects (custom price, delivery timeline, and message)
-  - **Offer Retrieval** - clients can retrieve offers with pagination and filtering
+  - **Offer Listing** - clients can retrieve offers with pagination and filtering
   - **Offer Status Management** - clients can update Offer status (pending, accepted, rejected)
 
 ## Technologies Used
