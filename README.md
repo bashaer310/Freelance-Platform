@@ -21,7 +21,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 - **Offer Management**:
   - **Offer Creation** - experts can submit offers for projects (custom price, delivery timeline, and message)
   - **Offer Listing** - clients can retrieve offers with pagination and filtering
-  - **Offer Status Management** - clients can update Offer status (pending, accepted, rejected)
+  - **Offer Status Management** - clients can update offer status (pending, accepted, rejected)
 
 ## Technologies Used
 - Languages
