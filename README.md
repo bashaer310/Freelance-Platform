@@ -61,6 +61,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 3. Configure Database:
 - Ensure MySQL is running.
+- Create database in MySQL.
 - Create tables for all the models in your DB.
 - Open `src/main/resources/application.properties` and update the DB config:
 
@@ -70,16 +71,15 @@ This is a backend solution for a freelance marketplace platform, built with Java
   spring.datasource.password=yourPassword
 ```
 
-- Run the application:
-
+5. Run the application:
   Use your IDE or run via command line:
 ```bash
 ./mvnw spring-boot:run
 ```
-5. Test the API
 
-    Use tools like Postman to test the endpoints.
-
+6. Test the API
+    - your apis are available at: [locahost:](http://localhost:/)
+    - Use tools like Postman to test the endpoints.
 
 ## Project structure
 ```bash
