@@ -72,10 +72,10 @@ This is a backend solution for a freelance marketplace platform, built with Java
 ```
 
 5. Run the application:
-  Use your IDE or run via command line:
-```bash
-./mvnw spring-boot:run
-```
+    Use your IDE or run via command line:
+    ```bash
+    ./mvnw spring-boot:run
+    ```
 
 6. Test the API
     - your apis are available at: [locahost:](http://localhost:/)
