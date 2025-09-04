@@ -90,13 +90,13 @@ Freelance-Platform/
 │   ├── main/
 │   │   ├── java/
 │   │   │   └── com/example/freelance/
-│   │   │       ├── controller/       # API controllers for handling requests and responses
+│   │   │       ├── controller/       # API for handling requests and responses
 │   │   │       ├── config/           # Security and application configurations
-│   │   │       ├── dto/              # Data Transfer Objects
+│   │   │       ├── dto/              # Data Transfer Objects (request/response models)
 │   │   │       ├── model/            # JPA entities (models)
 │   │   │       ├── advice/           # Custom exceptions hanling
-│   │   │       ├── repository/       # Spring Data JPA repositories for database operations
-│   │   │       ├── service/          # Business logic and services
+│   │   │       ├── repository/       # Data access layer
+│   │   │       ├── service/          # Business logic layer
 │   │   │       └── FreelanceApplication.java  # Application entry point
 │   │   ├── resources/
 │   │   ├── application.properties    # App configuration and DB connection
