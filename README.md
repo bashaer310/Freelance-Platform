@@ -56,7 +56,7 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 2. Navigate to the project folder:
   ```bash
-  Freelance-Platform
+  cd Freelance-Platform
   ```
 
 3. Configure Database:
