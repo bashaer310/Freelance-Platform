@@ -80,8 +80,8 @@ This is a backend solution for a freelance marketplace platform, built with Java
 
 
 6. Test the API
-    - your apis are available at: [locahost:](http://localhost:/)
-    - Use tools like Postman to test the endpoints.
+- your apis are available at: [locahost:](http://localhost:/)
+- Use tools like Postman to test the endpoints.
 
 ## Project structure
 ```bash
